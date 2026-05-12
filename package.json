@@ -1,0 +1,8 @@
+{
+  "name": "bluewud-chp-catalogue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/validate-static.mjs"
+  }
+}
